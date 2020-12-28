@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+body{
+  background : url(./images/code.jpg) no-repeat center center fixed;
+  -webkit-background: cover;
+  -moz-background: cover;
+  -o-background: cover;
+  background: cover;
+  opacity: .96;
+  
+  
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
