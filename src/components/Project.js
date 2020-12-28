@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Grid from "@material-ui/core/Grid";
-import Project1 from "../images/pro.jpg"
+import Project1 from "../images/pro.png"
 import MyCard from "./MyCard";
 import "fontsource-roboto";
 
