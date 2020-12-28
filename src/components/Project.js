@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Grid from "@material-ui/core/Grid";
-
+import Project1 from "../images/pro.jpg"
 import MyCard from "./MyCard";
 import "fontsource-roboto";
 
@@ -19,7 +19,7 @@ export default function Project() {
           <MyCard
             title="Portfolio Project"
             desc="i use React, React router and Material UI and Firebase in this project"
-            imgSrc="/Users/umairalikhan/Downloads/hdd git/lwf-batch1-portfolio-app/src/images/pro.png"
+            imgSrc={Project1}
             git="https://github.com/khan110/lwf-batch1-portfolio-app"
             url="https://port-app-83470.web.app"
           />
