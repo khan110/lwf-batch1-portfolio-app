@@ -1,1 +1,1 @@
-https://port-app-83470.web.app/Home
+https://port-app-83470.web.app
