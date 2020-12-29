@@ -6,14 +6,15 @@ import MyCard from "./MyCard";
 import "fontsource-roboto";
 
 
-
 export default function Project() {
     return (
-        <div>
-            <Navbar/>
-          
-     
+<>
+      <Navbar/>
 
+        <br/>
+        <div>
+           
+        
       <Grid container direction="row" spacing={2} alignItems="center">
         <Grid item xs={12} md={4} >
           <MyCard
@@ -42,5 +43,6 @@ export default function Project() {
         </Grid>
       </Grid>
         </div>
+        </>
     )
 }

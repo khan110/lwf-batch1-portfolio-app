@@ -5,12 +5,10 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import ContactDetails from './components/ContactDetails';
 import Project from './components/Project';
 import Home from './components/Home';
-import Navbar from './components/Navbar';
 
 
 function App() {

@@ -10,12 +10,12 @@ import HttpIcon from '@material-ui/icons/Http';
 
 const useStyles = makeStyles({
   root: {
-    maxWidth: 450,
-    maxHeight:350,
-  
+    maxWidth: 345,
+    maxHeight:345
   },
   media: {
-    height: 160,
+   height: 140,
+   
     
   
   },
